@@ -22,3 +22,8 @@ This is a simple obstacle avoiding car built for the purpose of learning about *
 
 ## Here are the Views of the project:
 <img width="689" alt="1" src="https://github.com/joy07092/Obstacle-Avoider-Car/assets/126982931/f47b16b0-21cb-4854-976d-fad3f0306b5a">
+
+## Here is a video showing the working of the project:
+
+https://github.com/joy07092/Obstacle-Avoider-Car/assets/126982931/cebac859-748a-41ea-8a86-e43b7e4eef8a
+
